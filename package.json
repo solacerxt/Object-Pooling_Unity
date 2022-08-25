@@ -1,0 +1,20 @@
+{
+  "name": "com.solacerxt.pooling",
+  "version": "1.0.1",
+  "displayName": "Object Pooling",
+  "description": "WIP",
+  "unity": "2021.3",
+  "unityRelease": "8f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "pooling"
+  ],
+  "author": {
+    "name": "solacerxt",
+    "email": "solacerxt@gmail.com",
+    "url": "https://github.com/solacerxt"
+  },
+  "type": "module"
+}

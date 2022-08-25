@@ -1,0 +1,16 @@
+{
+    "name": "solacerxt.pooling.editor",
+    "rootNamespace": "",
+    "references": [
+        "solacerxt.pooling.runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
