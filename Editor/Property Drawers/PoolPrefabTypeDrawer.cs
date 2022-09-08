@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using System;
 using UnityEngine;
 using UnityEditor;
@@ -43,3 +44,4 @@ namespace solacerxt.Pooling
         private bool IsTypeOf(Type a, Type b) => a == b || a.IsSubclassOf(b);
     }
 }
+#endif
